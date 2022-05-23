@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CaiOliveira91/buscado/static/css/main.760a86bf.css",
+    "main.js": "/CaiOliveira91/buscado/static/js/main.8afbe0d4.js",
+    "index.html": "/CaiOliveira91/buscado/index.html",
+    "main.760a86bf.css.map": "/CaiOliveira91/buscado/static/css/main.760a86bf.css.map",
+    "main.8afbe0d4.js.map": "/CaiOliveira91/buscado/static/js/main.8afbe0d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.760a86bf.css",
+    "static/js/main.8afbe0d4.js"
+  ]
+}
